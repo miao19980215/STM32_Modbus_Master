@@ -1,0 +1,2 @@
+# STM32_Modbus_Master
+STM32_Modbus_Master是一个基于STM32微控制器的开源Modbus主站实现项目，旨在为开发者提供一个可靠、可定制的Modbus通信解决方案。Modbus协议是一种常用的串行通信协议，广泛应用于工业自动化、智能控制以及远程设备管理等领域。STM32_Modbus_Master项目通过利用STM32的硬件资源，结合Modbus RTU，实现了Modbus主站功能，支持与从站设备进行数据交换。
